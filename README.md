@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/36013474-bc8a-4296-a54c-33fec5020971
+
 # 🪔 Diwali Rocket: landing a rocket from first principles
 
 > Every Diwali we light rockets and watch them climb, burn out and fall. This project asks the engineer's version of that question: **what does it take to bring a rocket back down and set it on its legs?**
