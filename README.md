@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/36013474-bc8a-4296-a54c-33fec5020971
 
 # 🪔 Diwali Rocket: landing a rocket from first principles
 
