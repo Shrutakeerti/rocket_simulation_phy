@@ -12,6 +12,8 @@ Built around Diwali 2026, in two parts:
 
 Every piece is tested against an exact answer before anything is built on it, and every result below states its limits.
 
+![Rocket landing video](docs/landing.gif)
+
 ![MuJoCo landing telemetry](docs/rocket_landing.png)
 
 ## Highlights
