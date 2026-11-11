@@ -143,9 +143,7 @@ Tests that can fail are the point of the project. Real problems they found:
 - Simon, *Optimal State Estimation*
 - Curtis, *Orbital Mechanics for Engineering Students*
 
-## License
 
-Add a license of your choice (for example MIT) before sharing widely.
 
 ---
 
